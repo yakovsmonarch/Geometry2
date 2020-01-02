@@ -1,0 +1,8 @@
+C:\Users\yaser\Documents\SharpDevelop Projects\Geometry2\Geometry2\bin\Debug\Geometry2.exe.config
+C:\Users\yaser\Documents\SharpDevelop Projects\Geometry2\Geometry2\bin\Debug\Geometry2.exe
+C:\Users\yaser\Documents\SharpDevelop Projects\Geometry2\Geometry2\bin\Debug\Geometry2.pdb
+C:\Users\yaser\Documents\SharpDevelop Projects\Geometry2\Geometry2\obj\Debug\Geometry2.csprojResolveAssemblyReference.cache
+C:\Users\yaser\Documents\SharpDevelop Projects\Geometry2\Geometry2\obj\Debug\Geometry2.exe
+C:\Users\yaser\Documents\SharpDevelop Projects\Geometry2\Geometry2\obj\Debug\Geometry2.pdb
+C:\Users\yaser\Documents\SharpDevelop Projects\Geometry2\Geometry2\obj\Debug\Geometry2.MainForm.resources
+C:\Users\yaser\Documents\SharpDevelop Projects\Geometry2\Geometry2\obj\Debug\Geometry2.csproj.GenerateResource.Cache
